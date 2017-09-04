@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc0ea128-bdc8-4ca5-a3a9-1f1b4186a9fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/互联网协议入门2.md" afterPath="$PROJECT_DIR$/互联网协议入门2.md" />
-    </list>
+    <list default="true" id="bc0ea128-bdc8-4ca5-a3a9-1f1b4186a9fb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,38 +14,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="互联网协议入门2.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/互联网协议入门2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="354">
-                <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="互联网协议入门1.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/互联网协议入门1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1589">
-                <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
-                <folding>
-                  <marker date="1504257733000" expanded="true" signature="4035:4181" ph="{&quot;head&quot;: '以太网标头'...}" />
-                  <marker date="1504257733000" expanded="true" signature="4066:4178" ph="{&quot;head&quot;: 'IP标头'...}" />
-                  <marker date="1504257733000" expanded="true" signature="4104:4171" ph="{&quot;head&quot;: 'TCP标头'...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -215,16 +181,15 @@
       <workItem from="1503480264769" duration="2821000" />
       <workItem from="1503549360352" duration="2424000" />
       <workItem from="1504234571851" duration="14911000" />
-      <workItem from="1504489457250" duration="9190000" />
+      <workItem from="1504489457250" duration="9704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32371000" />
+    <option name="totallyTimeSpent" value="32885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="967" y="23" width="953" height="974" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24652778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -344,8 +309,8 @@
     <entry file="file://$PROJECT_DIR$/互联网协议入门2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="354">
-            <caret line="101" column="0" lean-forward="true" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <first_editor relative-caret-position="500">
+            <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -355,8 +320,8 @@
     <entry file="file://$PROJECT_DIR$/互联网协议入门1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1589">
-            <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
+          <first_editor relative-caret-position="383">
+            <caret line="100" column="20" lean-forward="false" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
             <folding>
               <marker date="1504257733000" expanded="true" signature="4035:4181" ph="{&quot;head&quot;: '以太网标头'...}" />
               <marker date="1504257733000" expanded="true" signature="4066:4178" ph="{&quot;head&quot;: 'IP标头'...}" />
