@@ -8,3 +8,6 @@
 ## 二.cookie和session
 ### 1.[cookie](./cookie和session/cookie.md)
 ### 2.[session](./cookie和session/session.md)
+
+## 三.请求头和响应头
+### 1.[请求头和响应头的有趣互动](./请求头和响应头/请求头和响应头的有趣互动.md)
