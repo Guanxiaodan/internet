@@ -11,6 +11,7 @@
 
 ## 三.请求头和响应头
 ### 1.[请求头和响应头的有趣互动](./请求头和响应头/请求头和响应头的有趣互动.md)
+### 1.[状态码](./请求头和响应头/状态码.md)
 
 ## 四.application/x-www-form-urlencorded是怎么回事？？
 ### 1.[请求头和响应头的有趣互动](./application/x-www-form-urlencorded.md)
